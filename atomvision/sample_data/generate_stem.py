@@ -191,5 +191,5 @@ def get_combined_data():
 
 
 if __name__ == "__main__":
-    # get_combined_data()
-    dft_2d_only()
+    get_combined_data()
+    # dft_2d_only()
